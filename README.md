@@ -23,6 +23,10 @@ This project simulates a basic login system where:
 - ✅ Basic integrity and login check
 
 ---
+### 📦 Tech Stack
+- Python 🐍
+- Cryptography (SHA3-256, Salt)
+
 
 
 
