@@ -24,6 +24,5 @@ This project simulates a basic login system where:
 
 ---
 
-## 📂 File Structure
 
 
